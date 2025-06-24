@@ -34,7 +34,7 @@ input::placeholder {
   margin-bottom: 32px;
   background-color: #1878dc;
   color: #fff;
-  font-family: Inter, Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
